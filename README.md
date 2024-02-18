@@ -8,7 +8,7 @@ It appeals to both tech-savvy users and creative web enthusiasts.
 Thanks to the intuitive admin dashboard, RedDragonCMS can be used quickly and easily even for CMS beginners. 
 At the same time, it offers professionals the flexibility they need for sophisticated websites.
 
-RedDragonCMS is actively developed further and has a steadily growing community. As open source software, it is available free of charge.
+RedDragonCMS is actively developed further. As open source software, it is available free of charge.
 
 MIT License
 
