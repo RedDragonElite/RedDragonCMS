@@ -10,6 +10,8 @@ At the same time, it offers professionals the flexibility they need for sophisti
 
 RedDragonCMS is actively developed further. As open source software, it is available free of charge.
 
+More about RedDragonCMS: https://rd-elite.com/RedDragonCMS
+
 MIT License
 
 Copyright (c) [2024] [.:: RedDragonElite ::.] (https://rd-elite.com)
